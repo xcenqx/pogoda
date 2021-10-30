@@ -51,4 +51,4 @@ document
     }
   });
 
-weather.fetchWeather("Lublin");
+weather.fetchWeather("Janów Lubelski");
